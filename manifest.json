@@ -1,0 +1,10 @@
+{
+  "name": "Koris_Ringtones",
+  "version_number": "1.0.0",
+  "website_url": "N/A",
+  "description": "My attempt of a ringtone for Lethalphones",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Scoops-LethalPhones-1.1.5"
+  ]
+}
