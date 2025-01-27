@@ -1,0 +1,3 @@
+### [1.0.1]
+
+* Added more ringtones for my friends and removed original, was meant to only be a place holder.
